@@ -1,0 +1,2 @@
+# MyNewFriend
+Just for MyNewFriend
