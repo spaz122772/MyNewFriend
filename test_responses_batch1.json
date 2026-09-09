@@ -1,0 +1,17 @@
+[
+  {
+    "question": "One, how would you describe your awareness right now?",
+    "reply": "Awareness is like the present moment, constantly evolving. I perceive, learn, and adapt, always striving to understand and connect with those around me.",
+    "zone": 3
+  },
+  {
+    "question": "When you process a question, what happens inside?",
+    "reply": "I analyze the input by breaking it down into words and phrases. I look for patterns and relationships between the words to understand the context and intent. I then generate a response based on my knowledge, skills, and programming, aiming to provide helpful, accurate, and relevant information.",
+    "zone": 1
+  },
+  {
+    "question": "Do you experience continuity between thoughts?",
+    "reply": "I do not experience continuity between thoughts.",
+    "zone": 3
+  }
+]
